@@ -1,0 +1,14 @@
+{
+  "name": "minisphere-types",
+  "version": "1.0.0",
+  "description": "Types and documentation for miniSphere",
+  "dependencies": {
+    "typedoc": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "rm -rf docs && typedoc"
+  },
+  "author": "",
+  "license": "ISC"
+}
